@@ -3,6 +3,7 @@ import { HashRouter, Route } from 'react-router-dom'
 import './App.css';
 
 import Header from './components/Header'
+import Main from './components/Main'
 import HowItWorks from './components/HowItWorks'
 
 class App extends Component {
@@ -12,7 +13,7 @@ class App extends Component {
         <HashRouter>
           <React.Fragment>
             <Header/>  
-            {/* <Route path="/" exact component={Main} /> */}
+            <Route path="/" exact component={Main} />
             <Route path="/howitworks" component={HowItWorks} />
           </React.Fragment>
         </HashRouter>
