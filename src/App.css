@@ -1,6 +1,10 @@
+body {
+  background-color: #d3d3d3;
+}
+
 .header {
   height: 10vh;
-  background-color: lightgray;
+  background-color: #FFFFFF;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -9,4 +13,9 @@
 .header a {
   text-decoration: none;
   color: black;
+}
+
+.title {
+  font-family: 'Eczar', serif;
+  font-size: 1.5em;
 }
