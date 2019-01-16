@@ -1,0 +1,189 @@
+[
+    {
+        "id": "1",
+        "category": "Technical",
+        "subcategory": "Level One",
+        "title": "Git Basics",
+        "description": ""
+    },{
+        "id": "2",
+        "category": "Technical",
+        "subcategory": "Level One",
+        "title": "Keyboard Confidence",
+        "description": ""
+    },{
+        "id": "3",
+        "category": "Technical",
+        "subcategory": "Level One",
+        "title": "Editor Confidence",
+        "description": ""
+    },{
+        "id": "4",
+        "category": "Technical",
+        "subcategory": "Level One",
+        "title": "Unix Command Line",
+        "description": ""
+    },{
+        "id": "5",
+        "category": "Technical",
+        "subcategory": "Level One",
+        "title": "Pair Programming",
+        "description": ""
+    },{
+        "id": "6",
+        "category": "Technical",
+        "subcategory": "Level Two",
+        "title": "Test Driven Development",
+        "description": ""
+    },{
+        "id": "7",
+        "category": "Technical",
+        "subcategory": "Level Two",
+        "title": "Strongly Typed Object Oriented Language",
+        "description": ""
+    },{
+        "id": "8",
+        "category": "Technical",
+        "subcategory": "Level Two",
+        "title": "Naming Things",
+        "description": ""
+    },{
+        "id": "9",
+        "category": "Technical",
+        "subcategory": "Level Two",
+        "title": "Test Doubles",
+        "description": ""
+    },{
+        "id": "10",
+        "category": "Technical",
+        "subcategory": "Level Two",
+        "title": "SOLID",
+        "description": ""
+    },{
+        "id": "11",
+        "category": "Technical",
+        "subcategory": "Level Two",
+        "title": "YAGNI",
+        "description": ""
+    },{
+        "id": "12",
+        "category": "Technical",
+        "subcategory": "Level Two",
+        "title": "STUPID",
+        "description": ""
+    },{
+        "id": "13",
+        "category": "Technical",
+        "subcategory": "Level Two",
+        "title": "Object Composition",
+        "description": ""
+    },{
+        "id": "14",
+        "category": "Technical",
+        "subcategory": "Level Three",
+        "title": "AWS Basics",
+        "description": ""
+    },{
+        "id": "15",
+        "category": "Technical",
+        "subcategory": "Level Three",
+        "title": "Basics of Networking",
+        "description": ""
+    },{
+        "id": "16",
+        "category": "Technical",
+        "subcategory": "Level Three",
+        "title": "Continuous Deployment",
+        "description": ""
+    },{
+        "id": "17",
+        "category": "Technical",
+        "subcategory": "Level Three",
+        "title": "Web Services",
+        "description": ""
+    },{
+        "id": "18",
+        "category": "Technical",
+        "subcategory": "Level Four",
+        "title": "Light on the Hill",
+        "description": ""
+    },{
+        "id": "19",
+        "category": "Technical",
+        "subcategory": "Level Four",
+        "title": "Sensible Defaults",
+        "description": ""
+    },{
+        "id": "20",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Functional Composition",
+        "description": ""
+    },{
+        "id": "21",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Relational Databases",
+        "description": ""
+    },{
+        "id": "22",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Security Principles",
+        "description": ""
+    },{
+        "id": "23",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Root Cause Analysis",
+        "description": ""
+    },{
+        "id": "24",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Polyglot Programmer",
+        "description": ""
+    },{
+        "id": "25",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Refactoring Principles and Techniques",
+        "description": ""
+    },{
+        "id": "26",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Immutability",
+        "description": ""
+    },{
+        "id": "27",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Services and Containers",
+        "description": ""
+    },{
+        "id": "28",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Behaviour Driven Development",
+        "description": ""
+    },{
+        "id": "29",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Domain Driven Design",
+        "description": ""
+    },{
+        "id": "30",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "Design Patterns",
+        "description": ""
+    },{
+        "id": "31",
+        "category": "Technical",
+        "subcategory": "Other",
+        "title": "No-SQL Databases",
+        "description": ""
+    }
+]

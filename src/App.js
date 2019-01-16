@@ -5,6 +5,7 @@ import './App.css';
 import Header from './components/Header'
 import Main from './components/Main'
 import HowItWorks from './components/HowItWorks'
+import StepOne from './components/StepOne';
 
 class App extends Component {
   render() {
@@ -12,8 +13,9 @@ class App extends Component {
       <div className="App">
         <HashRouter>
           <React.Fragment>
-            <Header/>  
+            <Header/>
             <Route path="/" exact component={Main} />
+            <Route path="/stepone" component={StepOne}/>
             <Route path="/howitworks" component={HowItWorks} />
           </React.Fragment>
         </HashRouter>

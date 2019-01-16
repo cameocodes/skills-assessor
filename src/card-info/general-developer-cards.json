@@ -1,0 +1,188 @@
+[
+    {
+        "category": "General",
+        "subcategory": "Learning",
+        "title": "Improvement",
+        "description": "Identification, Learning Techniques, Internal Communities, Meetups, Conferences"
+    },
+    {
+        "category": "General",
+        "subcategory": "Coaching",
+        "title": "Coaching",
+        "description": "Talks, Workshop and Lab Facilitation, Mentorship Participation, Wider Team Coaching"
+    },
+    {
+        "category": "General",
+        "subcategory": "Leadership",
+        "title": "Group Leadership",
+        "description": "Fosters Alignment, Empowers Others, Knowledge and Responsibility Transfer"
+    },
+    {
+        "category": "General",
+        "subcategory": "Leadership",
+        "title": "Contributor",
+        "description": "Contributes to Vision, Leadership Styles, Servent Leading"
+    },
+    {
+        "category": "General",
+        "subcategory": "Collaboration",
+        "title": "Team Collaboration",
+        "description": "Emotional Intelligence, Hosting and Facilitation, Mobbing and Pairing, Community Participation, Working Group Involvement, Presentation"
+    },
+    {
+        "category": "General",
+        "subcategory": "Problem Solving",
+        "title": "Group Problem Solving",
+        "description": "Brainstorming, Mobbing, Pairing, Retrospectives"
+    },
+    {
+        "category": "General",
+        "subcategory": "Problem Solving",
+        "title": "Individual Problem Solving",
+        "description": "Root Cause Analysis, Hypothesis Thinking, Scientific Method, Divide and Conquer"
+    },
+    {
+        "category": "General",
+        "subcategory": "Collaboration",
+        "title": "Decision Making",
+        "description": "Three Amigos, Team Influence, Go To Person, Problem Solver, Advisory, Recruitment"
+    },
+    {
+        "category": "Cross-Functional",
+        "subcategory": "BA",
+        "title": "BA Influence",
+        "description": "Scope Influence, Domain Knowledge, Story Articulation, Problem Simplification"
+    },
+    {
+        "category": "Cross-Functional",
+        "subcategory": "UX Design",
+        "title": "UX Techniques",
+        "description": "Design Influence, Interviewing Customers, Beta Releases"
+    },
+    {
+        "category": "Cross-Functional",
+        "subcategory": "QA",
+        "title": "QA Knowledge",
+        "description": "Pyramids, Planning, Approaches"
+    },
+    {
+        "category": "Cross-Functional",
+        "subcategory": "UX Design",
+        "title": "UX Exploration",
+        "description": "Discovery and Validation, Prototyping Skills"
+    },
+    {
+        "category": "Cross-Functional",
+        "subcategory": "BA",
+        "title": "BA Techniques",
+        "description": "Story Planning, Customer Engagement"
+    },
+    {
+        "category": "Cross-Functional",
+        "subcategory": "Delivery",
+        "title": "Delivery Techniques",
+        "description": "Principles and Techniques, XP, Planning Estimation"
+    },
+    {
+        "category": "Cross-Functional",
+        "subcategory": "QA",
+        "title": "QA Practices",
+        "description": "Testing Techniques, Exploratory Testing, Test Environments"
+    },
+    {
+        "category": "Cross-Functional",
+        "subcategory": "Delivery",
+        "title": "Delivery Practices",
+        "description": "Stakeholder Engagement and Management, Tech Debt Mitigation, Regular Delivery Cadence"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Testing",
+        "title": "Testing Concepts",
+        "description": "TDD, Unit, Integration, UI Tests, Performance Tests, Test Patterns, Doubles/Stubs/Mocks, Security and Pen Testing"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Testing",
+        "title": "Dependency Management",
+        "description": "Conteact Based Tests, Stub Server Tests, Network Isolated Tests, Service Virtualisation"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Programming",
+        "title": "Techniques",
+        "description": "Clean Code, Refactoring Principles and Techniques, Reactive Programming"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Programming",
+        "title": "Frameworks",
+        "description": "Existing and New, Dependencies, Command Line Tools, Security"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Design",
+        "title": "Implementation Patterns",
+        "description": "Domain Driven Design, Design Patterns, SOLID, API Design, MCV, REST, TDD"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Design",
+        "title": "Complexity",
+        "description": "Emergent Design, Essential vs Accidental, Class Sizes, Cyclometric Complexity, Code Metrics, YAGNI"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "CI/CD",
+        "title": "Delivery Concepts",
+        "description": "CI, CD, Zero Downtime Upgrades, Canary Releases, Blue/Green Deployment, CI Software"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Programming",
+        "title": "Languages",
+        "description": "Core Development Languages, Support Languages, Polyglot, YAGNI, Performance"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Security",
+        "title": "Analysis",
+        "description": "OWASP, Tooling, Security Threat Modelling, Vulnerability, AuthN, AuthZ, Encryption Techniques, Data Management"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Security",
+        "title": "Assessment",
+        "description": "Risk Assessment, Pen Testing, Threat Management, Threat Metrics, SSL and TLS"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Networking",
+        "title": "Network Design and Planning",
+        "description": "Public, Private, VPN and VPC, OSI Layers, Load Balancing, Routing, Firewalls, Mashery"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Operations",
+        "title": "Monitoring and Logging",
+        "description": "Logging, Analytics, Data Visualisation, Dashboards, Backup and Restoration, File Management"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Operations",
+        "title": "Operation Concepts",
+        "description": "K8s, Docker, AWS, Azure, Emerging Technologies, 12 Factor App, Immutable Infrastructure, Cloud Provider"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Architecture",
+        "title": "Application Support",
+        "description": "Persistence, SLO, SLA, CAP, Documentation"
+    },
+    {
+        "category": "Technical",
+        "subcategory": "Architecture",
+        "title": "Design Patterns and Techniques",
+        "description": "DDD, Architectural Patterns, Serverless, Evolutionary, Multi-Tier"
+    }
+]
